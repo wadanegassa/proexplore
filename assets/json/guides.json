@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "title": "Ethiopian Coffee Ceremony",
+        "category": "Culture",
+        "content": "Coffee is central to Ethiopian culture. The traditional ceremony involves roasting beans, grinding, and brewing in a special pot called a 'jebena'. Accept three servings if offered!",
+        "icon": "coffee"
+    },
+    {
+        "id": "2",
+        "title": "Emergency Numbers",
+        "category": "Emergency",
+        "content": "Police: 991, Ambulance: 907, Fire: 939. Tourist Police: +251 11 551 8822",
+        "icon": "kit-medical"
+    },
+    {
+        "id": "3",
+        "title": "Ethiopian Cuisine",
+        "category": "Food",
+        "content": "Try Injera (sourdough flatbread) with Doro Wat (chicken stew) or Kitfo (minced raw meat). Vegetarians will love the variety of lentil and vegetable dishes.",
+        "icon": "utensils"
+    },
+    {
+        "id": "4",
+        "title": "Cultural Etiquette",
+        "category": "Culture",
+        "content": "Remove shoes when entering churches and homes. Use your right hand for eating and greeting. Dress modestly, especially in religious sites.",
+        "icon": "user-tie"
+    },
+    {
+        "id": "5",
+        "title": "Best Time to Visit",
+        "category": "Travel Tips",
+        "content": "Oct-May is the dry season and best for travel. The rainy season (Jun-Sep) brings lush landscapes but can make roads difficult.",
+        "icon": "calendar"
+    },
+    {
+        "id": "6",
+        "title": "Currency & Money",
+        "category": "Travel Tips",
+        "content": "Ethiopian Birr (ETB) is the currency. ATMs available in major cities. Carry cash for rural areas. USD and EUR can be exchanged at banks.",
+        "icon": "money-bill"
+    }
+]

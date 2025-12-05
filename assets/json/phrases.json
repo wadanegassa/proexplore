@@ -1,0 +1,191 @@
+[
+    {
+        "id": "1",
+        "original": "Hello",
+        "translated": "ሰላም (Selam)",
+        "pronunciation": "seh-LAHM",
+        "category": "Basics"
+    },
+    {
+        "id": "2",
+        "original": "Thank you",
+        "translated": "አመሰግናለሁ (Ameseginalehu)",
+        "pronunciation": "ah-meh-seh-gih-nah-leh-hu",
+        "category": "Basics" 
+    },
+    {
+        "id": "3",
+        "original": "How are you?",
+        "translated": "እንደምን ነህ? (Indemin neh)",
+        "pronunciation": "in-deh-min neh",
+        "category": "Basics"
+    },
+    {
+        "id": "4",
+        "original": "Where is the bathroom?",
+        "translated": "ሽንት ቤት የት ነው? (Shint bet yet new)",
+        "pronunciation": "shint bet yet new",
+        "category": "Directions"
+    },
+    {
+        "id": "5",
+        "original": "How much is this?",
+        "translated": "ይሄ ስንት ነው? (Yehe sint new)",
+        "pronunciation": "yeh-heh sint new",
+        "category": "Shopping"
+    },
+    {
+        "id": "6",
+        "original": "I need help",
+        "translated": "እርዳታ እፈልጋለሁ (Erdata efelgalehu)",
+        "pronunciation": "er-dah-tah eh-fel-gah-leh-hu",
+        "category": "Emergency"
+    },
+    {
+        "id": "7",
+        "original": "Coffee",
+        "translated": "ቡና (Buna)",
+        "pronunciation": "boo-nah",
+        "category": "Food"
+    },
+    {
+        "id": "8",
+        "original": "Goodbye",
+        "translated": "ቻው (Chaw)",
+        "pronunciation": "chow",
+        "category": "Basics"
+    },
+    {
+        "id": "9",
+        "original": "Yes",
+        "translated": "አዎ (Awo)",
+        "pronunciation": "ah-wo",
+        "category": "Basics"
+    },
+    {
+        "id": "10",
+        "original": "No",
+        "translated": "አይ (Ay)",
+        "pronunciation": "eye",
+        "category": "Basics"
+    },
+    {
+        "id": "11",
+        "original": "Excuse me",
+        "translated": "ይቅርታ (Yikirta)",
+        "pronunciation": "yih-kir-tah",
+        "category": "Basics"
+    },
+    {
+        "id": "12",
+        "original": "Water",
+        "translated": "ውሃ (Wuha)",
+        "pronunciation": "woo-hah",
+        "category": "Food"
+    },
+    {
+        "id": "13",
+        "original": "Food",
+        "translated": "ምግብ (Migib)",
+        "pronunciation": "mih-gib",
+        "category": "Food"
+    },
+    {
+        "id": "14",
+        "original": "Delicious",
+        "translated": "ጣፋጭ (Tafach)",
+        "pronunciation": "tah-fah-ch",
+        "category": "Food"
+    },
+    {
+        "id": "15",
+        "original": "Bus",
+        "translated": "አውቶቡስ (Autobus)",
+        "pronunciation": "ow-toh-boos",
+        "category": "Transport"
+    },
+    {
+        "id": "16",
+        "original": "Taxi",
+        "translated": "ታክሲ (Taxi)",
+        "pronunciation": "tak-see",
+        "category": "Transport"
+    },
+    {
+        "id": "17",
+        "original": "Stop here",
+        "translated": "እዚህ ውረድ (Ezi wered)",
+        "pronunciation": "eh-zee weh-red",
+        "category": "Transport"
+    },
+    {
+        "id": "18",
+        "original": "Good morning",
+        "translated": "እንደምን አደሩ (Indemin aderu)",
+        "pronunciation": "in-deh-min ah-deh-roo",
+        "category": "Greetings"
+    },
+    {
+        "id": "19",
+        "original": "Good night",
+        "translated": "ደህና እደሩ (Dehna ederu)",
+        "pronunciation": "deh-nah eh-deh-roo",
+        "category": "Greetings"
+    },
+    {
+        "id": "20",
+        "original": "One",
+        "translated": "አንድ (And)",
+        "pronunciation": "and",
+        "category": "Numbers"
+    },
+    {
+        "id": "21",
+        "original": "Two",
+        "translated": "ሁለት (Hulet)",
+        "pronunciation": "hoo-let",
+        "category": "Numbers"
+    },
+    {
+        "id": "22",
+        "original": "Three",
+        "translated": "ሶስት (Sost)",
+        "pronunciation": "sost",
+        "category": "Numbers"
+    },
+    {
+        "id": "23",
+        "original": "Too expensive",
+        "translated": "በጣም ውድ ነው (Betam wud new)",
+        "pronunciation": "beh-tam wood new",
+        "category": "Shopping"
+    },
+    {
+        "id": "24",
+        "original": "Police",
+        "translated": "ፖሊስ (Police)",
+        "pronunciation": "po-lees",
+        "category": "Emergency"
+    },
+    {
+        "id": "25",
+        "original": "Hospital",
+        "translated": "ሆስፒታል (Hospital)",
+        "pronunciation": "hos-pi-tal",
+        "category": "Emergency"
+    },
+    {
+        "id": "26",
+        "original": "I don't understand",
+        "translated": "አልገባኝም (Algebagnim)",
+        "pronunciation": "al-geh-bah-gnim",
+        "category": "Basics"
+    },
+    {
+        "id": "27",
+        "original": "Please",
+        "translated": "እባክህ (Ebakih - M) / እባክሽ (Ebakish - F)",
+        "pronunciation": "eh-bah-kih / eh-bah-kish",
+        "category": "Basics"
+    }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "name": "Lalibela",
+    "country": "Ethiopia",
+    "description": "Experience the spiritual heart of Ethiopia. Marvel at the 11 medieval monolithic cave churches of this 12th-century 'New Jerusalem'. A UNESCO World Heritage site that defies architectural logic.",
+    "imageUrl": "assets/images/Lalibela,_san_giorgio,_esterno_24.jpg",
+    "rating": 4.9,
+    "categories": [
+      "Culture",
+      "History",
+      "Religious"
+    ],
+    "latitude": 12.0333,
+    "longitude": 39.0333,
+    "images": [
+      "assets/images/Lalibela,_san_giorgio,_esterno_24.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Simien Mountains",
+    "country": "Ethiopia",
+    "description": "Trek through the 'Roof of Africa'. Witness dramatic jagged peaks, deep valleys, and unique wildlife like the Gelada baboon and Walia ibex in this breathtaking national park.",
+    "imageUrl": "assets/images/Semien_Mountains_9.jpg",
+    "rating": 4.8,
+    "categories": [
+      "Nature",
+      "Mountains",
+      "Adventure"
+    ],
+    "latitude": 13.2500,
+    "longitude": 38.0000,
+    "images": [
+      "assets/images/Semien_Mountains_9.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Addis Ababa",
+    "country": "Ethiopia",
+    "description": "Dive into the diplomatic capital of Africa. Explore the National Museum, shop at the vast Merkato, and enjoy the vibrant jazz scene and coffee culture of this bustling metropolis.",
+    "imageUrl": "assets/images/Addis_in_night.jpg",
+    "rating": 4.5,
+    "categories": [
+      "Culture",
+      "Urban",
+      "Shopping"
+    ],
+    "latitude": 9.0320,
+    "longitude": 38.7469,
+    "images": [
+      "assets/images/Addis_in_night.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Axum",
+    "country": "Ethiopia",
+    "description": "Walk among the ruins of the ancient Aksumite Empire. See the giant obelisks, the Queen of Sheba's bath, and the chapel believed to house the Ark of the Covenant.",
+    "imageUrl": "assets/images/axum.jpg",
+    "rating": 4.7,
+    "categories": [
+      "History",
+      "Culture",
+      "Religious"
+    ],
+    "latitude": 14.1333,
+    "longitude": 38.7167,
+    "images": [
+      "assets/images/axum.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Danakil Depression",
+    "country": "Ethiopia",
+    "description": "Venture into one of the hottest and lowest places on Earth. Witness the alien landscapes of sulfur springs, salt flats, and the bubbling lava lake of Erta Ale volcano.",
+    "imageUrl": "assets/images/danakil_depression.jpg",
+    "rating": 4.9,
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Unique"
+    ],
+    "latitude": 14.2417,
+    "longitude": 40.3000,
+    "images": [
+      "assets/images/danakil_depression.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Gondar",
+    "country": "Ethiopia",
+    "description": "Step back in time to the 'Camelot of Africa'. Explore the Royal Enclosure (Fasil Ghebbi) with its fairytale castles and the stunning Debre Berhan Selassie church.",
+    "imageUrl": "assets/images/gonder.jpg",
+    "rating": 4.6,
+    "categories": [
+      "History",
+      "Culture",
+      "Architecture"
+    ],
+    "latitude": 12.6000,
+    "longitude": 37.4667,
+    "images": [
+      "assets/images/gonder.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Bale Mountains",
+    "country": "Ethiopia",
+    "description": "A high-altitude plateau with dramatic escarpments, home to the endangered Ethiopian wolf and mountain nyala. A paradise for trekkers and wildlife enthusiasts.",
+    "imageUrl": "assets/images/Bale_Mountain,_Ethiopia.jpg",
+    "rating": 4.8,
+    "categories": [
+      "Nature",
+      "Wildlife",
+      "Adventure"
+    ],
+    "latitude": 6.8833,
+    "longitude": 39.7167,
+    "images": [
+      "assets/images/Bale_Mountain,_Ethiopia.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Harar Jugol",
+    "country": "Ethiopia",
+    "description": "The fourth holiest city in Islam, known for its 82 mosques, 102 shrines, and unique townhouses with exceptional interior design. Famous for the nightly hyena feeding ritual.",
+    "imageUrl": "assets/images/harar_jogol.jpg",
+    "rating": 4.7,
+    "categories": [
+      "Culture",
+      "History",
+      "Religious"
+    ],
+    "latitude": 9.3111,
+    "longitude": 42.1278,
+    "images": [
+      "assets/images/harar_jogol.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Omo Valley",
+    "country": "Ethiopia",
+    "description": "Home to some of Africa's most fascinating traditional tribes. A cultural mosaic of diverse ethnic groups maintaining their ancient customs and way of life.",
+    "imageUrl": "assets/images/omo_valley.jpg",
+    "rating": 4.6,
+    "categories": [
+      "Culture",
+      "Anthropology",
+      "Unique"
+    ],
+    "latitude": 5.5000,
+    "longitude": 36.0000,
+    "images": [
+      "assets/images/omo_valley.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Bahir Dar & Lake Tana",
+    "country": "Ethiopia",
+    "description": "Source of the Blue Nile and home to island monasteries dating back to the 14th century. The nearby Blue Nile Falls (Tis Abay) is a spectacular sight.",
+    "imageUrl": "assets/images/Lake_Tana,_Ethiopia.jpg",
+    "rating": 4.5,
+    "categories": [
+      "Nature",
+      "Culture",
+      "History"
+    ],
+    "latitude": 11.6000,
+    "longitude": 37.3833,
+    "images": [
+      "assets/images/Lake_Tana,_Ethiopia.jpg"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Sof Omar Caves",
+    "country": "Ethiopia",
+    "description": "One of the most spectacular and extensive underground cave systems in the world. Carved by the Weyib River, it is a place of mystery and natural beauty.",
+    "imageUrl": "assets/images/Sof_Omer_Cave,_Ethiopia_(23194314604).jpg",
+    "rating": 4.4,
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Unique"
+    ],
+    "latitude": 6.9000,
+    "longitude": 40.8500,
+    "images": [
+      "assets/images/Sof_Omer_Cave,_Ethiopia_(23194314604).jpg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Tiya",
+    "country": "Ethiopia",
+    "description": "An archaeological site containing 36 monuments, including 32 carved stelae covered with symbols. A UNESCO World Heritage Site offering a glimpse into ancient Ethiopian culture.",
+    "imageUrl": "assets/images/Tiya_vue_d'ensemble.jpeg",
+    "rating": 4.3,
+    "categories": [
+      "History",
+      "Archaeology",
+      "Culture"
+    ],
+    "latitude": 8.4333,
+    "longitude": 38.6167,
+    "images": [
+      "assets/images/Tiya_vue_d'ensemble.jpeg"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Awash National Park",
+    "country": "Ethiopia",
+    "description": "Ethiopia's oldest national park, featuring the spectacular Awash River gorge, waterfalls, and diverse wildlife including oryx, gazelles, and over 450 bird species.",
+    "imageUrl": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?auto=format&fit=crop&q=80",
+    "rating": 4.5,
+    "categories": [
+      "Nature",
+      "Wildlife",
+      "Adventure"
+    ],
+    "latitude": 9.0833,
+    "longitude": 40.0000,
+    "images": [
+      "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Wenchi Crater Lake",
+    "country": "Ethiopia",
+    "description": "A breathtaking crater lake located in an extinct volcano. Visitors can hike, ride horses, or take a boat trip to the island monastery.",
+    "imageUrl": "assets/images/Lake_wenchi_crater.jpg",
+    "rating": 4.7,
+    "categories": [
+      "Nature",
+      "Hiking",
+      "Scenic"
+    ],
+    "latitude": 8.8000,
+    "longitude": 37.9833,
+    "images": [
+      "assets/images/Lake_wenchi_crater.jpg"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Nechisar National Park",
+    "country": "Ethiopia",
+    "description": "Located between Lakes Abaya and Chamo, this park is famous for its 'Bridge of God' isthmus and diverse wildlife, including the endemic Swayne's hartebeest.",
+    "imageUrl": "https://images.unsplash.com/photo-1535941339077-2dd1c7963098?auto=format&fit=crop&q=80",
+    "rating": 4.4,
+    "categories": [
+      "Nature",
+      "Wildlife",
+      "Safari"
+    ],
+    "latitude": 6.0000,
+    "longitude": 37.5833,
+    "images": [
+      "https://images.unsplash.com/photo-1535941339077-2dd1c7963098?auto=format&fit=crop&q=80"
+    ]
+  }
+]
