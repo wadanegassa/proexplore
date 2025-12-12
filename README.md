@@ -1,16 +1,30 @@
-# protravel
+# ProExplore — Discover Ethiopia
 
-A new Flutter project.
+ProExplore is a beautifully designed **Ethiopian tourism guide app** built with Flutter. It helps tourists and travelers explore Ethiopia’s natural wonders, historical sites, cultural destinations, and adventure spots with ease.
 
-## Getting Started
+The app includes **interactive maps**, **weather integration**, and **detailed place descriptions** to assist both local and international tourists.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Replace the image paths with your real screenshots.
+
+<table>
+  <tr>
+    <td><img src="assets/screenshot1.jpg" width="250" /></td>
+    <td><img src="assets/screenshot2.jpg" width="250" /></td>
+    <td><img src="assets/screenshot3.jpg" width="250" /></td>
+    <td><img src="assets/screenshot4.jpg" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot5.jpg" width="250" /></td>
+    <td><img src="assets/screenshot6.jpg" width="250" /></td>
+    <td><img src="assets/screenshot7.jpg" width="250" /></td>
+    <<td><img src="assets/screenshot8.jpg" width="250" /></td>
+  </tr>
+</table>
+
+---
