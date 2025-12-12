@@ -8,9 +8,8 @@ The app includes **interactive maps**, **weather integration**, and **detailed p
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-Replace the image paths with your real screenshots.
 
 <table>
   <tr>
