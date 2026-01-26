@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProExplore — Discover Ethiopia
 
 ProExplore is a beautifully designed **Ethiopian tourism guide app** built with Flutter. It helps tourists and travelers explore Ethiopia’s natural wonders, historical sites, cultural destinations, and adventure spots with ease.
