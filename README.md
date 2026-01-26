@@ -28,14 +28,6 @@ The app includes **interactive maps**, **weather integration**, and **detailed p
 </table>
 
 ---
-=======
-# ProTravel 🌍
-
-**Your Ultimate Offline Travel Companion**
-
-ProTravel is a comprehensive mobile application designed to empower travelers with essential tools and information, ensuring a seamless experience even without an active internet connection. From itinerary planning to navigating foreign streets and bridging language gaps, ProTravel is the only travel buddy you'll ever need.
-
----
 
 ## ✨ Key Features
 
